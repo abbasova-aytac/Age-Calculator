@@ -1,0 +1,19 @@
+button{
+    padding: 10px;
+    background-color: darkblue;
+    color: aliceblue;
+margin-left: 20px;
+border-radius: 5px;
+outline: none;
+}
+
+
+.text-content{
+    margin: 20px;
+    padding: 40px;
+    border: 1px solid blue;
+}
+p{
+    font-size: 25px;
+    color:  blue;
+}
